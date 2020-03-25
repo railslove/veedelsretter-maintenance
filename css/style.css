@@ -1,0 +1,66 @@
+#footer {
+    position: absolute;
+    width: 1440px;
+    height: 76px;
+    left: 0px;
+    top: 714px;
+
+    background: #001F42;
+}
+#header {
+    position: absolute;
+    width: 1440px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FF0000;
+}
+
+#title {
+    
+    position: absolute;
+    width: 33.1%;
+    height: 6.8%;
+    left: 18%;
+    top: 31.3%;
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2vw;
+    line-height: 39px;
+    text-transform: uppercase;
+
+    color: #000000;
+}
+#description-text {
+    position: absolute;
+    width: 31.9%;
+    height: 17.7%;
+    left: 18%;
+    top: 38.2%;
+
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.2vw;
+    line-height: 23px;
+
+    color: #000000;
+}
+#image {
+    position: absolute;
+    width: 22.2%;
+    height: 24.5%;
+    left: 56.4%;
+    top: 31.3%;
+}
+#logo{
+    position: absolute;
+    width: 3.4%;
+    height: 5.5%;
+    left: 2.8%;
+    top: 90.3%;
+    
+    background: url(Element 1.png);
+}
