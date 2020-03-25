@@ -3,45 +3,45 @@
     #title {
         
         position: absolute;
-        width: 40%;
+        width: 80%;
         height: 6.8%;
-        left: 31%;
-        top: 31.3%;
+        left: 10%;
+        top: 20%;
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: bold;
-        font-size: 2vh;
-        line-height: 2vh;
+        font-size: 3vh;
+        line-height: 3vh;
         text-transform: uppercase;
     
         color: #000000;
     }
     #description-text {
         position: absolute;
-        width: 40%;
+        width: 80%;
         height: 17.7%;
-        left: 31%;
-        top: 38.2%;
+        left: 10%;
+        top: 27%;
     
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: normal;
-        font-size: 1.2vh;
+        font-size: 1.5vh;
         line-height: 1.5vh;
         color: #000000;
     }
     #image {
         position: absolute;
-        width: 22.2%;
-        height: 24.5%;
-        left: 36%;
-        top: 45%;
+        width: 44.4%;
+        height: 49%;
+        left: 25%;
+        top: 30%;
     }
     #logo{
         position: absolute;
         width: 25px;
         height: 22px;
-        left: 2.8%;
+        left: 5%;
         top: 93%;
     }
 }
@@ -90,53 +90,51 @@
         left: 2.8%;
         top: 85.3%;
     }
-
-
 }
 @media screen and (min-width: 750px)  {
     #title {
         
         position: absolute;
-        width: 33.1%;
+        width: 80%;
         height: 6.8%;
-        left: 31%;
-        top: 31.3%;
+        left: 10%;
+        top: 20%;
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: bold;
-        font-size: 2vh;
-        line-height: 2vh;
+        font-size: 3vh;
+        line-height: 3vh;
         text-transform: uppercase;
     
         color: #000000;
     }
     #description-text {
         position: absolute;
-        width: 31.9%;
+        width: 80%;
         height: 17.7%;
-        left: 31%;
-        top: 38.2%;
+        left: 10%;
+        top: 27%;
     
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: normal;
-        font-size: 1.2vh;
+        font-size: 1.5vh;
         line-height: 1.5vh;
         color: #000000;
     }
     #image {
         position: absolute;
-        width: 22.2%;
-        height: 24.5%;
-        left: 35%;
-        top: 45%;
+        width: 44.4%;
+        height: 49%;
+        left: 25%;
+        top: 30%;
     }
     #logo{
         position: absolute;
-        width: 25px;
-        height: 22px;
+        width: 50px;
+        height: 42px;
         left: 2.8%;
-        top: 93%;
+        top: 95%;
     }
 } 
 
