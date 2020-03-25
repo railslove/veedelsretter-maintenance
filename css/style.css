@@ -6,7 +6,7 @@
         width: 80%;
         height: 6.8%;
         left: 12%;
-        top: 20%;
+        top: 16%;
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: bold;
@@ -21,13 +21,13 @@
         width: 80%;
         height: 17.7%;
         left: 12%;
-        top: 27%;
+        top: 23%;
     
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: normal;
-        font-size: 1.5vh;
-        line-height: 1.7vh;
+        font-size: 18px;
+        line-height: 26px;
         color: #000000;
     }
     #image {
@@ -35,7 +35,7 @@
         width: 44.4%;
         height: 49%;
         left: 27%;
-        top: 30%;
+        top: 45%;
     }
     #logo{
         position: absolute;
@@ -73,7 +73,7 @@
         font-style: normal;
         font-weight: normal;
         font-size: 1.2vw;
-        line-height: 1.5vw;
+        line-height: 1.2vw;
         color: #000000;
     }
     #image {
@@ -118,8 +118,8 @@
         font-family: "IBM Plex Sans";
         font-style: normal;
         font-weight: normal;
-        font-size: 1.5vh;
-        line-height: 1.5vh;
+        font-size: 18px;
+        line-height: 26px;
         color: #000000;
     }
     #image {
@@ -127,7 +127,7 @@
         width: 44.4%;
         height: 49%;
         left: 25%;
-        top: 30%;
+        top: 40%;
     }
     #logo{
         position: absolute;
@@ -166,8 +166,8 @@
         font-family: IBM Plex Sans;
         font-style: normal;
         font-weight: normal;
-        font-size: 1.2vw;
-        line-height: 1.5vw;
+        font-size: 18px;
+        line-height: 26px;
         color: #000000;
     }
     #image {
